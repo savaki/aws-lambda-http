@@ -1,3 +1,5 @@
+[![GoDoc](https://godoc.org/github.com/savaki/aws-lambda-http/lambdahttp?status.svg)](https://godoc.org/github.com/savaki/aws-lambda-http/lambdahttp)
+
 aws-lambda-http
 ----------------------------------------
 
